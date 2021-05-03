@@ -1,0 +1,15 @@
+apachelogs==0.6.0
+asgiref==3.3.4
+attrs==20.3.0
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.2
+idna==2.10
+pydicti==1.1.4
+pytz==2021.1
+requests==2.25.1
+six==1.15.0
+sqlparse==0.4.1
+ua-parser==0.10.0
+urllib3==1.26.4
+user-agents==2.2.0
